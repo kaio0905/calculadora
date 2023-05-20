@@ -1,0 +1,52 @@
+.geral{
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+}
+
+.num1{
+    display: flex;
+    flex-direction: row;
+}
+
+.coiso1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+    width: 70%;
+}
+
+.num2{
+    display: flex;
+    flex-direction: row;
+}
+
+.coiso2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 70%;
+}
+
+.option-button{
+    display: flex;
+    flex-direction: row;
+}
+
+.option{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.button{
+    background-color: green;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#resultado{
+    margin-left: 10%;
+}
